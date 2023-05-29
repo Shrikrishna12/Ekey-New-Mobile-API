@@ -1,0 +1,17 @@
+
+Log Entry :
+03/24/2020 15:36:20
+Error in : http://localhost:56128/api/Notification/PostNotification. 
+
+Error message:System.ServiceModel.FaultException`1[Microsoft.Xrm.Sdk.OrganizationServiceFault]: Contact With Id = 99db0091-895f-ea11-80db-005056890167 Does Not Exist (Fault Detail is equal to Exception details: 
+ErrorCode: 0x80040217
+Message: Contact With Id = 99db0091-895f-ea11-80db-005056890167 Does Not Exist
+TimeStamp: 2020-03-24T10:05:50.7387408Z
+--
+Exception details: 
+ErrorCode: 0x80040217
+Message: Contact With Id = 99db0091-895f-ea11-80db-005056890167 Does Not Exist
+TimeStamp: 2020-03-24T10:05:50.7387408Z
+--
+).
+=============================================================================================

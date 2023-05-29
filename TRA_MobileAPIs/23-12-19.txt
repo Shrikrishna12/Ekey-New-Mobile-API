@@ -1,0 +1,90 @@
+
+Log Entry :
+12/23/2019 14:45:16
+Error in : http://localhost:56128/Swagger/api/Notification/PostNotification. 
+
+Error message:System.Net.WebException: The remote server returned an error: (401) Unauthorized.
+   at System.Net.HttpWebRequest.GetResponse()
+   at TRA_MobileAPIs.BuisnessLayer.NotifyRepository.<postNotification>d__4.MoveNext() in D:\Akash(WEBAPI)\TRA_API\Backup(3112019)\TRA_MobileAPIs\TRA_MobileAPIs\BuisnessLayer\NotifyRepository.cs:line 226
+=============================================================================================
+
+Log Entry :
+12/23/2019 14:46:44
+Error in : http://localhost:56128/Swagger/api/Notification/PostNotification. 
+
+Error message:System.Net.WebException: The remote server returned an error: (401) Unauthorized.
+   at System.Net.HttpWebRequest.GetResponse()
+   at TRA_MobileAPIs.BuisnessLayer.NotifyRepository.<postNotification>d__4.MoveNext() in D:\Akash(WEBAPI)\TRA_API\Backup(3112019)\TRA_MobileAPIs\TRA_MobileAPIs\BuisnessLayer\NotifyRepository.cs:line 226
+=============================================================================================
+
+Log Entry :
+12/23/2019 14:48:33
+Error in : http://localhost:56128/Swagger/api/Notification/PostNotification. 
+
+Error message:System.Net.WebException: The remote server returned an error: (401) Unauthorized.
+   at System.Net.HttpWebRequest.GetResponse()
+   at TRA_MobileAPIs.BuisnessLayer.NotifyRepository.<postNotification>d__4.MoveNext() in D:\Akash(WEBAPI)\TRA_API\Backup(3112019)\TRA_MobileAPIs\TRA_MobileAPIs\BuisnessLayer\NotifyRepository.cs:line 226
+=============================================================================================
+
+Log Entry :
+12/23/2019 14:49:25
+Error in : http://localhost:56128/Swagger/api/Notification/PostNotification. 
+
+Error message:System.Net.WebException: The remote server returned an error: (401) Unauthorized.
+   at System.Net.HttpWebRequest.GetResponse()
+   at TRA_MobileAPIs.BuisnessLayer.NotifyRepository.<postNotification>d__4.MoveNext() in D:\Akash(WEBAPI)\TRA_API\Backup(3112019)\TRA_MobileAPIs\TRA_MobileAPIs\BuisnessLayer\NotifyRepository.cs:line 226
+=============================================================================================
+
+Log Entry :
+12/23/2019 14:50:19
+Error in : http://localhost:56128/Swagger/api/Notification/PostNotification. 
+
+Error message:System.Net.WebException: The remote server returned an error: (401) Unauthorized.
+   at System.Net.HttpWebRequest.GetResponse()
+   at TRA_MobileAPIs.BuisnessLayer.NotifyRepository.<postNotification>d__4.MoveNext() in D:\Akash(WEBAPI)\TRA_API\Backup(3112019)\TRA_MobileAPIs\TRA_MobileAPIs\BuisnessLayer\NotifyRepository.cs:line 226
+=============================================================================================
+
+Log Entry :
+12/23/2019 14:55:27
+Error in : http://localhost:56128/Swagger/api/Notification/PostNotification. 
+
+Error message:System.Net.WebException: The remote server returned an error: (401) Unauthorized.
+   at System.Net.HttpWebRequest.GetResponse()
+   at TRA_MobileAPIs.BuisnessLayer.NotifyRepository.<postNotification>d__4.MoveNext() in D:\Akash(WEBAPI)\TRA_API\Backup(3112019)\TRA_MobileAPIs\TRA_MobileAPIs\BuisnessLayer\NotifyRepository.cs:line 226
+=============================================================================================
+
+Log Entry :
+12/23/2019 14:57:22
+Error in : http://localhost:56128/Swagger/api/Notification/PostNotification. 
+
+Error message:System.Net.WebException: The remote server returned an error: (401) Unauthorized.
+   at System.Net.HttpWebRequest.GetResponse()
+   at TRA_MobileAPIs.BuisnessLayer.NotifyRepository.<postNotification>d__4.MoveNext() in D:\Akash(WEBAPI)\TRA_API\Backup(3112019)\TRA_MobileAPIs\TRA_MobileAPIs\BuisnessLayer\NotifyRepository.cs:line 226
+=============================================================================================
+
+Log Entry :
+12/23/2019 15:00:59
+Error in : http://localhost:56128/Swagger/api/Notification/PostNotification. 
+
+Error message:System.Net.WebException: The remote server returned an error: (401) Unauthorized.
+   at System.Net.HttpWebRequest.GetResponse()
+   at TRA_MobileAPIs.BuisnessLayer.NotifyRepository.<postNotification>d__4.MoveNext() in D:\Akash(WEBAPI)\TRA_API\Backup(3112019)\TRA_MobileAPIs\TRA_MobileAPIs\BuisnessLayer\NotifyRepository.cs:line 226
+=============================================================================================
+
+Log Entry :
+12/23/2019 15:03:33
+Error in : http://localhost:56128/Swagger/api/Notification/PostNotification. 
+
+Error message:System.Net.WebException: The remote server returned an error: (401) Unauthorized.
+   at System.Net.HttpWebRequest.GetResponse()
+   at TRA_MobileAPIs.BuisnessLayer.NotifyRepository.<postNotification>d__4.MoveNext() in D:\Akash(WEBAPI)\TRA_API\Backup(3112019)\TRA_MobileAPIs\TRA_MobileAPIs\BuisnessLayer\NotifyRepository.cs:line 226
+=============================================================================================
+
+Log Entry :
+12/23/2019 15:17:11
+Error in : http://localhost:56128/Swagger/api/Notification/PostNotification. 
+
+Error message:System.Net.WebException: The remote server returned an error: (401) Unauthorized.
+   at System.Net.HttpWebRequest.GetResponse()
+   at TRA_MobileAPIs.BuisnessLayer.NotifyRepository.<postNotification>d__4.MoveNext() in D:\Akash(WEBAPI)\TRA_API\Backup(3112019)\TRA_MobileAPIs\TRA_MobileAPIs\BuisnessLayer\NotifyRepository.cs:line 226
+=============================================================================================
